@@ -16,7 +16,7 @@ This tool removes the complexities associated with running the Peacock server on
 ## 🛠️ Installation & Setup Guide
 
 1. **Download Peacock**:
-   - Go to [Peacock's official website](https://peacockserver.com) and download the latest release.
+   - Go to [Peacock's official website](https://thepeacockproject.org) and download the latest release.
    - Extract the Peacock release files into the same directory as `HitmanRun.exe`.
 
 2. **Add HitmanRun to Steam**:
