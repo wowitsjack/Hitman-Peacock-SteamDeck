@@ -39,6 +39,7 @@ This tool removes the complexities associated with running the Peacock server on
      ```
      127.0.0.1:6969
      ```
+     This should only be needed ONCE, it should save and auto-inject from here on with each launch.
 
 6. **Enjoy the Game!**:
    - Switch back to the game window and start playing. 🎮
