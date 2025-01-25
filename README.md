@@ -27,7 +27,7 @@ This tool removes the complexities associated with running the Peacock server on
    - Browse to `HitmanRun.exe` and add it.
 
 3. **Launch HitmanRun**:
-   - Set 'Compatibility Mode' to On in Properties for HitmanRun (I suggest Proton 9+)
+   - Set 'Compatibility Mode' to On in Properties for HitmanRun within Steam. (Right click -> Properties) (I suggest Proton 9+)
    - Launch `HitmanRun.exe` from your Steam Library.
 
 5. **Switch Between Windows**:
