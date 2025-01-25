@@ -4,7 +4,7 @@ HitmanRun is a streamlined launcher designed to simplify the process of running 
 
 This tool removes the complexities associated with running the Peacock server on the Steam Deck, including handling Proton isolation and managing multiple windows. 
 
-It's also built targting HITMAN III/WoA
+It's also intended to be used with (ie. I've tested it with) HITMAN III/WoA (Steam, latest)
 
 ---
 
