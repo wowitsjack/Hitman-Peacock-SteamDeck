@@ -21,7 +21,7 @@ It's also intended to be used with (ie. I've tested it with) HITMAN III/WoA (Ste
    - Go to [Peacock's official website](https://thepeacockproject.org) and download the latest release for Windows (Yes, I know you're on a Linux based Steam Deck).
    - Extract the Peacock release files into the HITMAN III install directory, alongside `Launcher.exe`.
    - Download the [latest Release](https://github.com/wowitsjack/Hitman-Peacock-SteamDeck/releases/download/1.0/Hitman-Peacock-SteamDeck-main.zip)
-   - Extract these files also alongside `Launcher.exe`
+   - Extract these files also alongside `Launcher.exe` (Make sure `server.cmd` and `HitmanRun.exe` are together in the same folder alongside `Launcher.exe`)
 
 2. **Add HitmanRun to Steam**:
    - Open Steam on your Steam Deck.
