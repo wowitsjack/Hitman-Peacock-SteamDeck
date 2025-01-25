@@ -27,21 +27,22 @@ This tool removes the complexities associated with running the Peacock server on
    - Browse to `HitmanRun.exe` and add it.
 
 3. **Launch HitmanRun**:
+   - Set 'Compatibility Mode' to On in Properties for HitmanRun (I suggest Proton 9+)
    - Launch `HitmanRun.exe` from your Steam Library.
 
-4. **Switch Between Windows**:
+5. **Switch Between Windows**:
    - Press the **Steam button** while in-game.
    - Scroll down to see the list of open windows.
    - Switch to the PeacockPatcher window.
 
-5. **Connect to the Peacock Server**:
+6. **Connect to the Peacock Server**:
    - In the PeacockPatcher window, enter the following address:
      ```
      127.0.0.1:6969
      ```
      This should only be needed ONCE, it should save and auto-inject from here on with each launch.
 
-6. **Enjoy the Game!**:
+7. **Enjoy the Game!**:
    - Switch back to the game window and start playing. 🎮
 
 ---
