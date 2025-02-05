@@ -92,12 +92,8 @@ Now, your Steam library will display the proper name alongside custom artwork fo
 
 ---
 
-## 💡 Where is the EXE source!?
 
-- That .cmd file there, we just stamp it down into a flat executable exe.
-- You're welcome to compile it yourself :D
-
-## 💡 Why Use HitmanRun?
+## 💡 Why Tho? lol
 HitmanRun eliminates the challenges of setting up Peacock on the Steam Deck, providing a user-friendly solution that integrates seamlessly with Steam. By enabling custom artwork and streamlining server hosting, it lets you focus on what matters: enjoying the game.
 
 ---
