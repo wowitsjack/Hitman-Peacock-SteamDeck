@@ -46,7 +46,7 @@ It's also intended to be used with (ie. I've tested it with) HITMAN III/WoA (Ste
 6. **Connect to the Peacock Server**:
    - In the PeacockPatcher window, enter the following address:
      ```
-     127.0.0.1:6969
+     localhost:6969
      ```
      This should only be needed ONCE, it should save and auto-inject from here on with each launch.
 
