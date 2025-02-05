@@ -91,7 +91,7 @@ Now, your Steam library will display the proper name alongside custom artwork fo
 
 ## ⚠️ Notes
 - Ensure all Peacock files are extracted into the same directory as `HitmanRun.exe`.
-- The Peacock server uses `127.0.0.1:6969` by default. Ensure no other services are using this port.
+- The Peacock server uses `localhost:6969` by default. Ensure no other services are using this port.
 - Customizing the artwork and renaming the launcher are optional steps but greatly enhance the experience.
 
 ---
