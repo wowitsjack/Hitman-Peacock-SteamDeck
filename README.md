@@ -3,7 +3,7 @@
 
 [![Download](https://img.shields.io/badge/Download-Hitman--Peacock--SteamDeck--2.1a-brightgreen?style=for-the-badge)](https://github.com/wowitsjack/Hitman-Peacock-SteamDeck/releases/download/2.0/Hitman-Peacock-SteamDeck-2.1a.zip)
 
-![HitmanRun Demo](https://github.com/wowitsjack/Hitman-Peacock-SteamDeck/raw/main/HitmanRun.gif)
+![HitmanRun Demo](https://github.com/wowitsjack/Hitman-Peacock-SteamDeck/raw/main/HitmanRun.gif) 
 
 
 HitmanRun is a streamlined launcher designed to simplify the process of running the **Peacock Server Emulator** on the **Valve Steam Deck** or **SteamOS**. The Peacock emulator mimics the functionality of IO Interactive's game servers, allowing players to self-host and manage their server experience. 
