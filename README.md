@@ -24,7 +24,8 @@ It's also intended to be used with (ie. I've tested it with) HITMAN III/WoA (Ste
 ## 🛠️ Installation & Setup Guide
 
 1. **Download Peacock**:
-   - Go to [Peacock's official website](https://thepeacockproject.org) and download the latest release for Windows (Yes, I know you're on a Linux based Steam Deck).
+   - Go to [Peacock's official website](https://thepeacockproject.org) (or a cracked copy of Peacock from the csrin forum if you have a cracked copy of HITMAN) and download the latest release for Windows (Yes, I know you're on a Linux based Steam Deck).
+   - (Optional) - Cracked copy users should download SmokeAPI and configure to unlock all the DLC
    - Extract the Peacock release files into the HITMAN III install directory, alongside `Launcher.exe`.
    - Download the [latest Release](https://github.com/wowitsjack/Hitman-Peacock-SteamDeck/releases/)
    - Extract these files also alongside `Launcher.exe` (Make sure `server.cmd` and `HitmanRun.exe` are together in the same folder alongside `Launcher.exe`)
